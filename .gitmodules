@@ -1,0 +1,3 @@
+[submodule "mitosis-hardware"]
+	path = mitosis-hardware
+	url = https://github.com/TuTanK5/mitosis-hardware
